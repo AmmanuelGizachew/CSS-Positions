@@ -1,5 +1,8 @@
 .content{
-    background-color: grey;
+    position: relative;
+    background-color: gray;
+    width: 1000px;
+    height: 550px;
         }
 .tl{
   position: absolute ;
@@ -34,3 +37,4 @@
   background-color: aqua;
 
 }
+
